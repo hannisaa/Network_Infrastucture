@@ -77,6 +77,6 @@ Pengujian dilakukan dengan:
 
 ## Academic Project
 
-Proyek ini dikembangkan sebagai tugas mata kuliah Python dan SQL Programming di CEP-CCIT Fakultas Teknik Universitas Indonesia.
+Proyek ini dikembangkan sebagai tugas mata kuliah Jaringan Komputer di CEP-CCIT Fakultas Teknik Universitas Indonesia.
 
 ---
